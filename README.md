@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my physics projects and applications of deep learning in experimental physics.
 - 🌱 I’m currently learning reinforcement learning.
 - 👯 I’m looking to collaborate on any interesting and fun project.
